@@ -1,0 +1,19 @@
+.upload-file {
+  margin-bottom: 20px;
+}
+
+.upload-label {
+  background: var(--primary);
+  color: var(--secondary);
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.upload-label:hover {
+  background: #0046b8;
+}
+
+.file-input { display: none; }
